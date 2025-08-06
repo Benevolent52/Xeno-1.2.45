@@ -1,3 +1,10 @@
+Абсолютно идентичная последняя версия Xeno. В отличии от официального сайта вам не нужно выбирать один из вариантов получения файна. Просто скачайте его из этого директория.
+
+This is the latest version of Xeno, which is identical to the official website. Unlike the official website, you don't need to choose a method to obtain the file. Simply download it from this directory.
+
+
+
+
 You must download Microsoft Visual C++ Redistributable & .NET 8.0 to run make Xeno run stable.
 Open the links below to download them.
 
